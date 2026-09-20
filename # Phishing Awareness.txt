@@ -1,0 +1,21 @@
+# Phishing Awareness Training Guide - CodeAlpha
+
+1. What is Phishing?
+Phishing is a social engineering attack where attackers impersonate trustworthy entities to steal sensitive data like passwords and financial details.
+
+2. Common Types of Phishing
+- Email Phishing: Deceptive emails claiming urgent action.
+- Spear Phishing: Targeted attacks aimed at specific individuals.
+- Smishing & Vishing: Phishing via SMS or voice calls.
+
+3. How to Spot Phishing Indicators
+- Mismatched sender domain names.
+- Generic greetings (e.g., "Dear Customer").
+- Urgent demand for personal or login info.
+- Suspicious hyperlinks or unknown attachments.
+
+4. Best Practices & Prevention Tips
+- Always verify the URL before clicking.
+- Enable Two-Factor Authentication (2FA).
+- Never share OTPs, passwords, or personal credentials.
+-
